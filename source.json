@@ -1,27 +1,23 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"Cyan Player Object Pool",
+    "id":"com.cyan.playerobjectpool-listing",
+    "url":"https://CyanLaser.github.io/template-package-listing-test/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "name":"CyanLaser",
+        "url":"https://twitter.com/CyanLaser"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Test listing for Cyan Player Object Pool package: A VRChat system that will assign a unique object to every player in the world.",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"http://github.com/CyanLaser/template-package-listing-test",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
-    "githubRepos":[
-        "vrchat-community/clientsim"
-    ],
+    "githubRepos":[],
     "packages":[
         {
-            "name":"com.vrchat.udonsharp",
+            "name":"com.cyan.playerobjectpool",
             "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+                "https://github.com/CyanLaser/CyanPlayerObjectPool/releases/download/v1.1.1/com.cyan.playerobjectpool.zip"
             ]
         }
     ]
