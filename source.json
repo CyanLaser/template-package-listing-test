@@ -12,7 +12,6 @@
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
-    "githubRepos":[],
     "packages":[
         {
             "name":"com.cyan.playerobjectpool",
