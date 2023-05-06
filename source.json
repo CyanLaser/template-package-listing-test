@@ -1,12 +1,12 @@
 {
-    "name":"Cyan Player Object Pool",
-    "id":"com.cyan.playerobjectpool-listing",
+    "name":"Cyan VCC Test Listing",
+    "id":"com.cyan.test-vcc-listing",
     "url":"https://CyanLaser.github.io/template-package-listing-test/index.json",
     "author":{
         "name":"CyanLaser",
         "url":"https://twitter.com/CyanLaser"
     },
-    "description":"Test listing for Cyan Player Object Pool package: A VRChat system that will assign a unique object to every player in the world.",
+    "description":"Test listing for Cyan's packages.",
     "infoLink":{
         "url":"http://github.com/CyanLaser/template-package-listing-test",
         "text":"View on GitHub"
